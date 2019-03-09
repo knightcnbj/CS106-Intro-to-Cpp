@@ -34,3 +34,4 @@
 # customized ignore
 .vscode/
 *.pdf
+*.zip

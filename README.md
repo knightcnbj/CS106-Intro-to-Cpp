@@ -1,6 +1,8 @@
 # LearningCPP
 project storage for CS106B by Stanford 
 
+For the record, I'm not a student at Stanford. And you should not use my code to submit your assignment if you are a student. I'm just doing this for fun.
+
 CS106B is the second part of entry level CS course we take at any university
 
 here we learn the basic of C++
