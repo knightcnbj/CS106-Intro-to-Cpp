@@ -1,0 +1,3 @@
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/cmake-build-debug/CMakeFiles/project1_a_taste_of_cpp.dir
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

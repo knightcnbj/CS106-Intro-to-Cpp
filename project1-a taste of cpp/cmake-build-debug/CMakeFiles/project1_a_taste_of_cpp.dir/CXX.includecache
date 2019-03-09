@@ -1,0 +1,2836 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/StanfordCPPLib/collections/basicgraph.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+initializer_list
+-
+sstream
+-
+string
+-
+utility
+-
+gmath.h
+../lib/StanfordCPPLib/collections/gmath.h
+graph.h
+../lib/StanfordCPPLib/collections/graph.h
+grid.h
+../lib/StanfordCPPLib/collections/grid.h
+hashset.h
+../lib/StanfordCPPLib/collections/hashset.h
+linkedlist.h
+../lib/StanfordCPPLib/collections/linkedlist.h
+observable.h
+../lib/StanfordCPPLib/collections/observable.h
+set.h
+../lib/StanfordCPPLib/collections/set.h
+vector.h
+../lib/StanfordCPPLib/collections/vector.h
+
+../lib/StanfordCPPLib/collections/collections.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+iostream
+-
+sstream
+-
+error.h
+../lib/StanfordCPPLib/collections/error.h
+gmath.h
+../lib/StanfordCPPLib/collections/gmath.h
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+random.h
+../lib/StanfordCPPLib/collections/random.h
+
+../lib/StanfordCPPLib/collections/dawglexicon.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+initializer_list
+-
+set
+-
+string
+-
+set.h
+../lib/StanfordCPPLib/collections/set.h
+stack.h
+../lib/StanfordCPPLib/collections/stack.h
+cctype
+-
+
+../lib/StanfordCPPLib/collections/graph.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+string
+-
+collections.h
+../lib/StanfordCPPLib/collections/collections.h
+error.h
+../lib/StanfordCPPLib/collections/error.h
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+map.h
+../lib/StanfordCPPLib/collections/map.h
+set.h
+../lib/StanfordCPPLib/collections/set.h
+strlib.h
+../lib/StanfordCPPLib/collections/strlib.h
+tokenscanner.h
+../lib/StanfordCPPLib/collections/tokenscanner.h
+
+../lib/StanfordCPPLib/collections/grid.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+initializer_list
+-
+iostream
+-
+string
+-
+sstream
+-
+collections.h
+../lib/StanfordCPPLib/collections/collections.h
+error.h
+../lib/StanfordCPPLib/collections/error.h
+gridlocation.h
+../lib/StanfordCPPLib/collections/gridlocation.h
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+random.h
+../lib/StanfordCPPLib/collections/random.h
+strlib.h
+../lib/StanfordCPPLib/collections/strlib.h
+vector.h
+../lib/StanfordCPPLib/collections/vector.h
+
+../lib/StanfordCPPLib/collections/gridlocation.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+iostream
+-
+iterator
+-
+string
+-
+error.h
+../lib/StanfordCPPLib/collections/error.h
+
+../lib/StanfordCPPLib/collections/hashcode.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+string
+-
+utility
+-
+
+../lib/StanfordCPPLib/collections/hashmap.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+cstdlib
+-
+initializer_list
+-
+string
+-
+utility
+-
+collections.h
+../lib/StanfordCPPLib/collections/collections.h
+error.h
+../lib/StanfordCPPLib/collections/error.h
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+vector.h
+../lib/StanfordCPPLib/collections/vector.h
+
+../lib/StanfordCPPLib/collections/hashset.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+initializer_list
+-
+iostream
+-
+collections.h
+../lib/StanfordCPPLib/collections/collections.h
+error.h
+../lib/StanfordCPPLib/collections/error.h
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+hashmap.h
+../lib/StanfordCPPLib/collections/hashmap.h
+vector.h
+../lib/StanfordCPPLib/collections/vector.h
+
+../lib/StanfordCPPLib/collections/lexicon.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+initializer_list
+-
+iterator
+-
+set
+-
+string
+-
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+set.h
+../lib/StanfordCPPLib/collections/set.h
+
+../lib/StanfordCPPLib/collections/linkedlist.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+algorithm
+-
+initializer_list
+-
+iostream
+-
+iterator
+-
+list
+-
+sstream
+-
+string
+-
+collections.h
+../lib/StanfordCPPLib/collections/collections.h
+error.h
+../lib/StanfordCPPLib/collections/error.h
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+random.h
+../lib/StanfordCPPLib/collections/random.h
+strlib.h
+../lib/StanfordCPPLib/collections/strlib.h
+vector.h
+../lib/StanfordCPPLib/collections/vector.h
+
+../lib/StanfordCPPLib/collections/map.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+cstdlib
+-
+initializer_list
+-
+utility
+-
+collections.h
+../lib/StanfordCPPLib/collections/collections.h
+error.h
+../lib/StanfordCPPLib/collections/error.h
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+stack.h
+../lib/StanfordCPPLib/collections/stack.h
+vector.h
+../lib/StanfordCPPLib/collections/vector.h
+
+../lib/StanfordCPPLib/collections/queue.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+deque
+-
+initializer_list
+-
+iterator
+-
+collections.h
+../lib/StanfordCPPLib/collections/collections.h
+error.h
+../lib/StanfordCPPLib/collections/error.h
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+vector.h
+../lib/StanfordCPPLib/collections/vector.h
+
+../lib/StanfordCPPLib/collections/set.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+initializer_list
+-
+iostream
+-
+set
+-
+collections.h
+../lib/StanfordCPPLib/collections/collections.h
+error.h
+../lib/StanfordCPPLib/collections/error.h
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+map.h
+../lib/StanfordCPPLib/collections/map.h
+vector.h
+../lib/StanfordCPPLib/collections/vector.h
+
+../lib/StanfordCPPLib/collections/shuffle.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+string
+-
+random.h
+../lib/StanfordCPPLib/collections/random.h
+
+../lib/StanfordCPPLib/collections/stack.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+initializer_list
+-
+iterator
+-
+error.h
+../lib/StanfordCPPLib/collections/error.h
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+vector.h
+../lib/StanfordCPPLib/collections/vector.h
+
+../lib/StanfordCPPLib/collections/stl.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+initializer_list
+-
+iostream
+-
+iterator
+-
+list
+-
+map
+-
+queue
+-
+set
+-
+sstream
+-
+stack
+-
+vector
+-
+collections.h
+../lib/StanfordCPPLib/collections/collections.h
+dawglexicon.h
+../lib/StanfordCPPLib/collections/dawglexicon.h
+lexicon.h
+../lib/StanfordCPPLib/collections/lexicon.h
+linkedlist.h
+../lib/StanfordCPPLib/collections/linkedlist.h
+map.h
+../lib/StanfordCPPLib/collections/map.h
+queue.h
+../lib/StanfordCPPLib/collections/queue.h
+set.h
+../lib/StanfordCPPLib/collections/set.h
+stack.h
+../lib/StanfordCPPLib/collections/stack.h
+vector.h
+../lib/StanfordCPPLib/collections/vector.h
+
+../lib/StanfordCPPLib/collections/vector.h
+private/init.h
+../lib/StanfordCPPLib/collections/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/collections/private/initstudent.h
+algorithm
+-
+initializer_list
+-
+iostream
+-
+iterator
+-
+sstream
+-
+string
+-
+collections.h
+../lib/StanfordCPPLib/collections/collections.h
+error.h
+../lib/StanfordCPPLib/collections/error.h
+hashcode.h
+../lib/StanfordCPPLib/collections/hashcode.h
+random.h
+../lib/StanfordCPPLib/collections/random.h
+
+../lib/StanfordCPPLib/graphics/console.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+iostream
+-
+sstream
+-
+string
+-
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+
+../lib/StanfordCPPLib/graphics/consoletext.h
+console.h
+../lib/StanfordCPPLib/graphics/console.h
+
+../lib/StanfordCPPLib/graphics/gbrowserpane.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QSize
+-
+QTextBrowser
+-
+QWidget
+-
+gevent.h
+../lib/StanfordCPPLib/graphics/gevent.h
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+
+../lib/StanfordCPPLib/graphics/gbutton.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QWindow
+-
+QEvent
+-
+QMouseEvent
+-
+QPushButton
+-
+QSize
+-
+QToolButton
+-
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+
+../lib/StanfordCPPLib/graphics/gcanvas.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QWindow
+-
+QEvent
+-
+QKeyEvent
+-
+QMouseEvent
+-
+QPainter
+-
+QPaintEvent
+-
+QResizeEvent
+-
+QSize
+-
+QWheelEvent
+-
+QWidget
+-
+gdrawingsurface.h
+../lib/StanfordCPPLib/graphics/gdrawingsurface.h
+gevent.h
+../lib/StanfordCPPLib/graphics/gevent.h
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+gobjects.h
+../lib/StanfordCPPLib/graphics/gobjects.h
+
+../lib/StanfordCPPLib/graphics/gcheckbox.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+functional
+-
+string
+-
+QWindow
+-
+QEvent
+-
+QCheckBox
+-
+QMouseEvent
+-
+QSize
+-
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+
+../lib/StanfordCPPLib/graphics/gchooser.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+initializer_list
+-
+string
+-
+QComboBox
+-
+QSize
+-
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+vector.h
+../lib/StanfordCPPLib/graphics/vector.h
+
+../lib/StanfordCPPLib/graphics/gclipboard.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+QWindow
+-
+QEvent
+-
+QKeyEvent
+-
+string
+-
+
+../lib/StanfordCPPLib/graphics/gcolor.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QColor
+-
+map.h
+../lib/StanfordCPPLib/graphics/map.h
+
+../lib/StanfordCPPLib/graphics/gcolorchooser.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QWidget
+-
+gwindow.h
+../lib/StanfordCPPLib/graphics/gwindow.h
+
+../lib/StanfordCPPLib/graphics/gconsolewindow.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+iostream
+-
+sstream
+-
+string
+-
+Qt
+-
+QMutex
+-
+QWindow
+-
+QKeyEvent
+-
+QReadWriteLock
+-
+QTextEdit
+-
+QTextFrame
+-
+gevent.h
+../lib/StanfordCPPLib/graphics/gevent.h
+gtextarea.h
+../lib/StanfordCPPLib/graphics/gtextarea.h
+gtypes.h
+../lib/StanfordCPPLib/graphics/gtypes.h
+gthread.h
+../lib/StanfordCPPLib/graphics/gthread.h
+gwindow.h
+../lib/StanfordCPPLib/graphics/gwindow.h
+queue.h
+../lib/StanfordCPPLib/graphics/queue.h
+vector.h
+../lib/StanfordCPPLib/graphics/vector.h
+private/consolestreambuf.h
+../lib/StanfordCPPLib/graphics/private/consolestreambuf.h
+private/forwardingstreambuf.h
+../lib/StanfordCPPLib/graphics/private/forwardingstreambuf.h
+
+../lib/StanfordCPPLib/graphics/gcontainer.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+QBoxLayout
+-
+QLayout
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+vector.h
+../lib/StanfordCPPLib/graphics/vector.h
+
+../lib/StanfordCPPLib/graphics/gdiffgui.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QWidget
+-
+QSplitter
+-
+diff.h
+../lib/StanfordCPPLib/graphics/diff.h
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+gtextarea.h
+../lib/StanfordCPPLib/graphics/gtextarea.h
+gwindow.h
+../lib/StanfordCPPLib/graphics/gwindow.h
+
+../lib/StanfordCPPLib/graphics/gdiffimage.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QWidget
+-
+QSplitter
+-
+gbutton.h
+../lib/StanfordCPPLib/graphics/gbutton.h
+gcanvas.h
+../lib/StanfordCPPLib/graphics/gcanvas.h
+gcheckbox.h
+../lib/StanfordCPPLib/graphics/gcheckbox.h
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+glabel.h
+../lib/StanfordCPPLib/graphics/glabel.h
+gslider.h
+../lib/StanfordCPPLib/graphics/gslider.h
+gwindow.h
+../lib/StanfordCPPLib/graphics/gwindow.h
+
+../lib/StanfordCPPLib/graphics/gdownloader.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QtCore
+-
+QtNetwork
+-
+QNetworkAccessManager
+-
+QNetworkRequest
+-
+QNetworkReply
+-
+QUrl
+-
+map.h
+../lib/StanfordCPPLib/graphics/map.h
+
+../lib/StanfordCPPLib/graphics/gdrawingsurface.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QFont
+-
+QWidget
+-
+grid.h
+../lib/StanfordCPPLib/graphics/grid.h
+gobjects.h
+../lib/StanfordCPPLib/graphics/gobjects.h
+gtypes.h
+../lib/StanfordCPPLib/graphics/gtypes.h
+
+../lib/StanfordCPPLib/graphics/gevent.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+functional
+-
+iostream
+-
+string
+-
+QEvent
+-
+gtypes.h
+../lib/StanfordCPPLib/graphics/gtypes.h
+
+../lib/StanfordCPPLib/graphics/geventqueue.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QObject
+-
+QReadWriteLock
+-
+gevent.h
+../lib/StanfordCPPLib/graphics/gevent.h
+gtypes.h
+../lib/StanfordCPPLib/graphics/gtypes.h
+queue.h
+../lib/StanfordCPPLib/graphics/queue.h
+
+../lib/StanfordCPPLib/graphics/gevents.h
+gevent.h
+../lib/StanfordCPPLib/graphics/gevent.h
+
+../lib/StanfordCPPLib/graphics/gfilechooser.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QWidget
+-
+gwindow.h
+../lib/StanfordCPPLib/graphics/gwindow.h
+
+../lib/StanfordCPPLib/graphics/gfont.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QFont
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+
+../lib/StanfordCPPLib/graphics/gfontchooser.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QWidget
+-
+gwindow.h
+../lib/StanfordCPPLib/graphics/gwindow.h
+
+../lib/StanfordCPPLib/graphics/ginputpanel.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QObject
+-
+
+../lib/StanfordCPPLib/graphics/ginteractor.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+functional
+-
+string
+-
+QObject
+-
+QReadWriteLock
+-
+QWidget
+-
+map.h
+../lib/StanfordCPPLib/graphics/map.h
+gevent.h
+../lib/StanfordCPPLib/graphics/gevent.h
+gobservable.h
+../lib/StanfordCPPLib/graphics/gobservable.h
+gtypes.h
+../lib/StanfordCPPLib/graphics/gtypes.h
+
+../lib/StanfordCPPLib/graphics/glabel.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QWindow
+-
+QEvent
+-
+QLabel
+-
+QMouseEvent
+-
+QSize
+-
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+gobjects.h
+../lib/StanfordCPPLib/graphics/gobjects.h
+
+../lib/StanfordCPPLib/graphics/glayout.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+QLayout
+-
+QRect
+-
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+
+../lib/StanfordCPPLib/graphics/gobjects.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+initializer_list
+-
+iostream
+-
+QFont
+-
+QImage
+-
+QPainter
+-
+QPen
+-
+QWidget
+-
+gtypes.h
+../lib/StanfordCPPLib/graphics/gtypes.h
+vector.h
+../lib/StanfordCPPLib/graphics/vector.h
+
+../lib/StanfordCPPLib/graphics/gobservable.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+functional
+-
+string
+-
+QObject
+-
+QWidget
+-
+QWindow
+-
+QEvent
+-
+QCloseEvent
+-
+QKeyEvent
+-
+QMouseEvent
+-
+QResizeEvent
+-
+QTimerEvent
+-
+QWheelEvent
+-
+QWindowStateChangeEvent
+-
+gevent.h
+../lib/StanfordCPPLib/graphics/gevent.h
+map.h
+../lib/StanfordCPPLib/graphics/map.h
+
+../lib/StanfordCPPLib/graphics/goptionpane.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+vector.h
+../lib/StanfordCPPLib/graphics/vector.h
+
+../lib/StanfordCPPLib/graphics/gradiobutton.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QWindow
+-
+QEvent
+-
+QButtonGroup
+-
+QMouseEvent
+-
+QRadioButton
+-
+QSize
+-
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+map.h
+../lib/StanfordCPPLib/graphics/map.h
+
+../lib/StanfordCPPLib/graphics/gscrollbar.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QScrollBar
+-
+QSize
+-
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+
+../lib/StanfordCPPLib/graphics/gscrollpane.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+QScrollArea
+-
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+
+../lib/StanfordCPPLib/graphics/gslider.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QSize
+-
+QSlider
+-
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+
+../lib/StanfordCPPLib/graphics/gspacer.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+
+../lib/StanfordCPPLib/graphics/gtable.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QAbstractItemModel
+-
+QBrush
+-
+QFont
+-
+QItemSelection
+-
+QStyledItemDelegate
+-
+QWidget
+-
+QTableWidget
+-
+grid.h
+../lib/StanfordCPPLib/graphics/grid.h
+map.h
+../lib/StanfordCPPLib/graphics/map.h
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+gobjects.h
+../lib/StanfordCPPLib/graphics/gobjects.h
+gtypes.h
+../lib/StanfordCPPLib/graphics/gtypes.h
+
+../lib/StanfordCPPLib/graphics/gtextarea.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QSize
+-
+QTextEdit
+-
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+
+../lib/StanfordCPPLib/graphics/gtextfield.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+initializer_list
+-
+string
+-
+QLineEdit
+-
+QSize
+-
+QSpinBox
+-
+QDoubleSpinBox
+-
+QString
+-
+QWidget
+-
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+vector.h
+../lib/StanfordCPPLib/graphics/vector.h
+
+../lib/StanfordCPPLib/graphics/gthread.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+QThread
+-
+gtypes.h
+../lib/StanfordCPPLib/graphics/gtypes.h
+
+../lib/StanfordCPPLib/graphics/gtimer.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+
+../lib/StanfordCPPLib/graphics/gtypes.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+functional
+-
+iostream
+-
+Qt
+-
+string
+-
+
+../lib/StanfordCPPLib/graphics/gwindow.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+string
+-
+QWindow
+-
+QCloseEvent
+-
+QEvent
+-
+QLayout
+-
+QMainWindow
+-
+QRect
+-
+gcanvas.h
+../lib/StanfordCPPLib/graphics/gcanvas.h
+gcontainer.h
+../lib/StanfordCPPLib/graphics/gcontainer.h
+gdrawingsurface.h
+../lib/StanfordCPPLib/graphics/gdrawingsurface.h
+geventqueue.h
+../lib/StanfordCPPLib/graphics/geventqueue.h
+ginteractor.h
+../lib/StanfordCPPLib/graphics/ginteractor.h
+grid.h
+../lib/StanfordCPPLib/graphics/grid.h
+gtypes.h
+../lib/StanfordCPPLib/graphics/gtypes.h
+map.h
+../lib/StanfordCPPLib/graphics/map.h
+point.h
+../lib/StanfordCPPLib/graphics/point.h
+set.h
+../lib/StanfordCPPLib/graphics/set.h
+
+../lib/StanfordCPPLib/graphics/qtgui.h
+private/init.h
+../lib/StanfordCPPLib/graphics/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/graphics/private/initstudent.h
+functional
+-
+string
+-
+QApplication
+-
+QObject
+-
+QReadWriteLock
+-
+geventqueue.h
+../lib/StanfordCPPLib/graphics/geventqueue.h
+gthread.h
+../lib/StanfordCPPLib/graphics/gthread.h
+gtypes.h
+../lib/StanfordCPPLib/graphics/gtypes.h
+queue.h
+../lib/StanfordCPPLib/graphics/queue.h
+
+../lib/StanfordCPPLib/io/base64.h
+private/init.h
+../lib/StanfordCPPLib/io/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/io/private/initstudent.h
+string
+-
+
+../lib/StanfordCPPLib/io/bitstream.h
+private/init.h
+../lib/StanfordCPPLib/io/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/io/private/initstudent.h
+istream
+-
+ostream
+-
+fstream
+-
+sstream
+-
+
+../lib/StanfordCPPLib/io/filelib.h
+private/init.h
+../lib/StanfordCPPLib/io/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/io/private/initstudent.h
+iostream
+-
+fstream
+-
+string
+-
+vector.h
+../lib/StanfordCPPLib/io/vector.h
+
+../lib/StanfordCPPLib/io/plainconsole.h
+private/init.h
+../lib/StanfordCPPLib/io/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/io/private/initstudent.h
+
+../lib/StanfordCPPLib/io/rapidxml.h
+private/init.h
+../lib/StanfordCPPLib/io/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/io/private/initstudent.h
+cstdlib
+-
+cassert
+-
+new
+-
+exception
+-
+cstdlib
+-
+cassert
+-
+new
+-
+exception
+-
+cstdlib
+-
+cassert
+-
+new
+-
+exception
+-
+
+../lib/StanfordCPPLib/io/server.h
+private/init.h
+../lib/StanfordCPPLib/io/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/io/private/initstudent.h
+iostream
+-
+string
+-
+gevents.h
+../lib/StanfordCPPLib/io/gevents.h
+
+../lib/StanfordCPPLib/io/simpio.h
+private/init.h
+../lib/StanfordCPPLib/io/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/io/private/initstudent.h
+iostream
+-
+string
+-
+
+../lib/StanfordCPPLib/io/tokenscanner.h
+private/init.h
+../lib/StanfordCPPLib/io/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/io/private/initstudent.h
+iostream
+-
+string
+-
+
+../lib/StanfordCPPLib/io/urlstream.h
+private/init.h
+../lib/StanfordCPPLib/io/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/io/private/initstudent.h
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+map.h
+../lib/StanfordCPPLib/io/map.h
+
+../lib/StanfordCPPLib/io/xmlutils.h
+private/init.h
+../lib/StanfordCPPLib/io/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/io/private/initstudent.h
+string
+-
+rapidxml.h
+../lib/StanfordCPPLib/io/rapidxml.h
+vector.h
+../lib/StanfordCPPLib/io/vector.h
+
+../lib/StanfordCPPLib/system/call_stack.h
+private/init.h
+../lib/StanfordCPPLib/system/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/system/private/initstudent.h
+string
+-
+sstream
+-
+vector.h
+../lib/StanfordCPPLib/system/vector.h
+
+../lib/StanfordCPPLib/system/error.h
+private/init.h
+../lib/StanfordCPPLib/system/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/system/private/initstudent.h
+csignal
+-
+exception
+-
+iostream
+-
+string
+-
+
+../lib/StanfordCPPLib/system/exceptions.h
+private/init.h
+../lib/StanfordCPPLib/system/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/system/private/initstudent.h
+iostream
+-
+
+../lib/StanfordCPPLib/system/os.h
+private/init.h
+../lib/StanfordCPPLib/system/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/system/private/initstudent.h
+string
+-
+
+../lib/StanfordCPPLib/util/biginteger.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+iostream
+-
+string
+-
+hashcode.h
+../lib/StanfordCPPLib/util/hashcode.h
+
+../lib/StanfordCPPLib/util/complex.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+iostream
+-
+string
+-
+
+../lib/StanfordCPPLib/util/diff.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+string
+-
+
+../lib/StanfordCPPLib/util/direction.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+iostream
+-
+string
+-
+
+../lib/StanfordCPPLib/util/gmath.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+cmath
+-
+limits
+-
+gtypes.h
+../lib/StanfordCPPLib/util/gtypes.h
+point.h
+../lib/StanfordCPPLib/util/point.h
+
+../lib/StanfordCPPLib/util/intrange.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+iostream
+-
+iterator
+-
+limits
+-
+error.h
+../lib/StanfordCPPLib/util/error.h
+point.h
+../lib/StanfordCPPLib/util/point.h
+
+../lib/StanfordCPPLib/util/memory.h
+
+../lib/StanfordCPPLib/util/note.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+iostream
+-
+string
+-
+
+../lib/StanfordCPPLib/util/observable.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+set
+-
+error.h
+../lib/StanfordCPPLib/util/error.h
+
+../lib/StanfordCPPLib/util/point.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+string
+-
+
+../lib/StanfordCPPLib/util/random.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+string
+-
+
+../lib/StanfordCPPLib/util/recursion.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+string
+-
+
+../lib/StanfordCPPLib/util/regexpr.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+string
+-
+vector.h
+../lib/StanfordCPPLib/util/vector.h
+
+../lib/StanfordCPPLib/util/require.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+string
+-
+
+../lib/StanfordCPPLib/util/sound.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+string
+-
+QMediaPlayer
+-
+QMediaPlaylist
+-
+QSound
+-
+map.h
+../lib/StanfordCPPLib/util/map.h
+
+../lib/StanfordCPPLib/util/stringutils.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+string
+-
+vector.h
+../lib/StanfordCPPLib/util/vector.h
+
+../lib/StanfordCPPLib/util/strlib.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+iostream
+-
+sstream
+-
+string
+-
+vector.h
+../lib/StanfordCPPLib/util/vector.h
+
+../lib/StanfordCPPLib/util/timer.h
+private/init.h
+../lib/StanfordCPPLib/util/private/init.h
+private/initstudent.h
+../lib/StanfordCPPLib/util/private/initstudent.h
+
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/headless.h
+private/init.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/private/init.h
+
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/init.h
+cstdlib
+-
+functional
+-
+stdio.h
+-
+headless.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/headless.h
+pointers.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/pointers.h
+
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/initstudent.h
+multimain.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/multimain.h
+
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/multimain.h
+string
+-
+
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/version.h
+string
+-
+
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/spl.cpp
+private/init.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/init.h
+consoletext.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/consoletext.h
+exceptions.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/exceptions.h
+qtgui.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/qtgui.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+direct.h
+-
+unistd.h
+-
+private/init.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/init.h
+private/initstudent.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/initstudent.h
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+direct.h
+-
+windows.h
+-
+tchar.h
+-
+cctype
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+ios
+-
+string
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+private/version.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/version.h
+cstdio
+-
+iomanip
+-
+iostream
+-
+sstream
+-
+string
+-
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+sys/types.h
+-
+sys/stat.h
+-
+sys/resource.h
+-
+dirent.h
+-
+errno.h
+-
+pwd.h
+-
+stdint.h
+-
+unistd.h
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+ios
+-
+string
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+private/multimain.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/multimain.h
+iomanip
+-
+iostream
+-
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+goptionpane.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/goptionpane.h
+map.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/map.h
+simpio.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/simpio.h
+simpio.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/simpio.h
+cctype
+-
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+algorithm
+-
+cctype
+-
+cstdio
+-
+simpio.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/simpio.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+urlstream.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/urlstream.h
+sstream
+-
+string
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+gdownloader.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gdownloader.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+bitstream.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/bitstream.h
+iostream
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+plainconsole.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/plainconsole.h
+csignal
+-
+iostream
+-
+string
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+base64.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/base64.h
+cstring
+-
+sstream
+-
+xmlutils.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/xmlutils.h
+cstring
+-
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+rapidxml.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/rapidxml.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+server.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/server.h
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+map.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/map.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+tokenscanner.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/tokenscanner.h
+cctype
+-
+iostream
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+stack.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/stack.h
+gevent.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gevent.h
+iostream
+-
+sys/time.h
+-
+ginteractor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/ginteractor.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+gtable.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gtable.h
+cstring
+-
+iostream
+-
+iomanip
+-
+QBrush
+-
+QColor
+-
+QHeaderView
+-
+QLineEdit
+-
+sstream
+-
+gclipboard.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gclipboard.h
+gcolor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolor.h
+gevent.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gevent.h
+gfont.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfont.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+moc_gtable.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gtable.cpp
+gspacer.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gspacer.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+moc_gspacer.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gspacer.cpp
+gtextarea.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gtextarea.h
+QScrollBar
+-
+QTextCursor
+-
+gcolor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolor.h
+gfont.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfont.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+moc_gtextarea.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gtextarea.cpp
+gdownloader.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gdownloader.h
+iomanip
+-
+iostream
+-
+QtGlobal
+-
+QFile
+-
+QIODevice
+-
+QTimer
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+moc_gdownloader.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gdownloader.cpp
+qtgui.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/qtgui.h
+QEvent
+-
+QThread
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+exceptions.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/exceptions.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+direct.h
+-
+unistd.h
+-
+moc_geventqueue.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_geventqueue.cpp
+gdiffgui.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gdiffgui.h
+iostream
+-
+QScrollBar
+-
+string
+-
+consoletext.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/consoletext.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+consoletext.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/consoletext.h
+cstdio
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+exceptions.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/exceptions.h
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+gconsolewindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gconsolewindow.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+private/version.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/version.h
+gconsolewindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gconsolewindow.h
+cstdio
+-
+QAction
+-
+QTextDocumentFragment
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+exceptions.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/exceptions.h
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+gclipboard.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gclipboard.h
+gcolor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolor.h
+gcolorchooser.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolorchooser.h
+gdiffgui.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gdiffgui.h
+gdownloader.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gdownloader.h
+gfilechooser.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfilechooser.h
+gfont.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfont.h
+gfontchooser.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfontchooser.h
+goptionpane.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/goptionpane.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+os.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/os.h
+qtgui.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/qtgui.h
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+private/version.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/version.h
+gradiobutton.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gradiobutton.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+moc_gradiobutton.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gradiobutton.cpp
+gdiffimage.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gdiffimage.h
+iostream
+-
+string
+-
+gcolor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolor.h
+gcolorchooser.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolorchooser.h
+gfont.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfont.h
+gspacer.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gspacer.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+gcolorchooser.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolorchooser.h
+QColorDialog
+-
+gcolor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolor.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+glabel.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/glabel.h
+iostream
+-
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+glayout.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/glayout.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+moc_glabel.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_glabel.cpp
+goptionpane.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/goptionpane.h
+QInputDialog
+-
+QMessageBox
+-
+QWidget
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+gbutton.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gbutton.h
+gtextarea.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gtextarea.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+set.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/set.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+gfontchooser.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfontchooser.h
+QFontDialog
+-
+gfont.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfont.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+ginteractor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/ginteractor.h
+iostream
+-
+sstream
+-
+gcolor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolor.h
+gfont.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfont.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+qtgui.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/qtgui.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+consoletext.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/consoletext.h
+gconsolewindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gconsolewindow.h
+gevent.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gevent.h
+geventqueue.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/geventqueue.h
+qtgui.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/qtgui.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+gscrollbar.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gscrollbar.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+moc_gscrollbar.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gscrollbar.cpp
+gscrollpane.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gscrollpane.h
+glayout.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/glayout.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+moc_gscrollpane.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gscrollpane.cpp
+gcolor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolor.h
+iomanip
+-
+iostream
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+gbrowserpane.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gbrowserpane.h
+QScrollBar
+-
+QTextCursor
+-
+fstream
+-
+iostream
+-
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+server.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/server.h
+moc_gbrowserpane.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gbrowserpane.cpp
+gclipboard.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gclipboard.h
+QApplication
+-
+QClipboard
+-
+QString
+-
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+glayout.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/glayout.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+gtypes.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gtypes.h
+cmath
+-
+sstream
+-
+string
+-
+collections.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/collections.h
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+gmath.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gmath.h
+hashcode.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/hashcode.h
+point.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/point.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+gcanvas.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcanvas.h
+gcolor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolor.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+moc_gcanvas.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gcanvas.cpp
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+QDesktopWidget
+-
+QMenu
+-
+QMenuBar
+-
+QSizePolicy
+-
+QStatusBar
+-
+QThread
+-
+QTimer
+-
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+gcolor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolor.h
+gdiffgui.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gdiffgui.h
+gdiffimage.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gdiffimage.h
+glabel.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/glabel.h
+glayout.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/glayout.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+qtgui.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/qtgui.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+moc_gwindow.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gwindow.cpp
+gtextfield.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gtextfield.h
+QCompleter
+-
+QFontMetrics
+-
+QString
+-
+QStringList
+-
+QStringListModel
+-
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+moc_gtextfield.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gtextfield.cpp
+gdrawingsurface.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gdrawingsurface.h
+QPainter
+-
+gcolor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolor.h
+gfont.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfont.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+gfilechooser.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfilechooser.h
+QFileDialog
+-
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+vector.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/vector.h
+gobservable.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gobservable.h
+iostream
+-
+sstream
+-
+geventqueue.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/geventqueue.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+gcontainer.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcontainer.h
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+glabel.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/glabel.h
+glayout.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/glayout.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+moc_gcontainer.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gcontainer.cpp
+gobjects.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gobjects.h
+algorithm
+-
+cmath
+-
+iomanip
+-
+iostream
+-
+QBrush
+-
+QFont
+-
+QPointF
+-
+QPolygon
+-
+QVector
+-
+sstream
+-
+string
+-
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+gmath.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gmath.h
+gcolor.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcolor.h
+gfont.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfont.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+ginputpanel.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/ginputpanel.h
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+xmlutils.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/xmlutils.h
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+gbutton.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gbutton.h
+QKeySequence
+-
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+moc_gbutton.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gbutton.cpp
+gfont.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gfont.h
+algorithm
+-
+iomanip
+-
+iostream
+-
+QtGlobal
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+vector.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/vector.h
+gslider.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gslider.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+moc_gslider.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gslider.cpp
+gcheckbox.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gcheckbox.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+moc_gcheckbox.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gcheckbox.cpp
+gtimer.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gtimer.h
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+gchooser.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gchooser.h
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+gwindow.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gwindow.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+moc_gchooser.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_gchooser.cpp
+qtgui.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/qtgui.h
+QEvent
+-
+QtGlobal
+-
+QThread
+-
+consoletext.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/consoletext.h
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+exceptions.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/exceptions.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+direct.h
+-
+unistd.h
+-
+moc_qtgui.cpp
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/moc_qtgui.cpp
+random.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/random.h
+cstdlib
+-
+cmath
+-
+ctime
+-
+iostream
+-
+iomanip
+-
+queue
+-
+sstream
+-
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+string
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+intrange.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/intrange.h
+sstream
+-
+hashcode.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/hashcode.h
+diff.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/diff.h
+algorithm
+-
+map.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/map.h
+regexpr.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/regexpr.h
+set.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/set.h
+stringutils.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/stringutils.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+vector.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/vector.h
+note.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/note.h
+sstream
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+gmath.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gmath.h
+hashcode.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/hashcode.h
+direction.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/direction.h
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+tokenscanner.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/tokenscanner.h
+point.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/point.h
+string
+-
+gtypes.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gtypes.h
+hashcode.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/hashcode.h
+regexpr.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/regexpr.h
+QtGlobal
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+stringutils.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/stringutils.h
+iterator
+-
+regex
+-
+sound.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/sound.h
+QUrl
+-
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+require.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/require.h
+stringutils.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/stringutils.h
+algorithm
+-
+cctype
+-
+cmath
+-
+sstream
+-
+memory.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/memory.h
+cstddef
+-
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+cctype
+-
+iomanip
+-
+iostream
+-
+sstream
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+vector.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/vector.h
+biginteger.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/biginteger.h
+algorithm
+-
+cctype
+-
+climits
+-
+cmath
+-
+iomanip
+-
+iostream
+-
+sstream
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+timer.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/timer.h
+sys/time.h
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+recursion.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/recursion.h
+exceptions.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/exceptions.h
+call_stack.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/call_stack.h
+gmath.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gmath.h
+cmath
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+gtypes.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gtypes.h
+complex.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/complex.h
+cctype
+-
+cmath
+-
+sstream
+-
+gmath.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gmath.h
+hashcode.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/hashcode.h
+dawglexicon.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/dawglexicon.h
+algorithm
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+iostream
+-
+sstream
+-
+stdint.h
+-
+string
+-
+collections.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/collections.h
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+hashcode.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/hashcode.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+basicgraph.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/basicgraph.h
+shuffle.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/shuffle.h
+stl.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/stl.h
+collections.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/collections.h
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+iomanip
+-
+iostream
+-
+lexicon.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/lexicon.h
+cctype
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+collections.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/collections.h
+dawglexicon.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/dawglexicon.h
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+hashcode.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/hashcode.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+hashcode.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/hashcode.h
+cstddef
+-
+cstring
+-
+gridlocation.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gridlocation.h
+sstream
+-
+hashcode.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/hashcode.h
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+exceptions.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/exceptions.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+sstream
+-
+call_stack.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/call_stack.h
+windows.h
+-
+tchar.h
+-
+assert.h
+-
+errno.h
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+signal.h
+-
+sstream
+-
+stdlib.h
+-
+stdbool.h
+-
+stdint.h
+-
+string
+-
+windows.h
+-
+tchar.h
+-
+dbghelp.h
+-
+imagehlp.h
+-
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+exceptions.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/exceptions.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+vector.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/vector.h
+cxxabi.h
+-
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+os.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/os.h
+QString
+-
+QSysInfo
+-
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+stdio.h
+-
+cxxabi.h
+-
+windows.h
+-
+tchar.h
+-
+stdio.h
+-
+strsafe.h
+-
+execinfo.h
+-
+dlfcn.h
+-
+cstring
+-
+iomanip
+-
+iostream
+-
+sstream
+-
+stdlib.h
+-
+call_stack.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/call_stack.h
+exceptions.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/exceptions.h
+gthread.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/gthread.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+vector.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/vector.h
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+exceptions.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/exceptions.h
+csignal
+-
+iomanip
+-
+iostream
+-
+string
+-
+call_stack.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/call_stack.h
+error.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/error.h
+filelib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/filelib.h
+strlib.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/strlib.h
+vector.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/vector.h
+private/static.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/lib/StanfordCPPLib/private/static.h
+windows.h
+-
+
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/src/name_hash.cpp
+iostream
+-
+string
+-
+console.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/src/console.h
+simpio.h
+C:/Users/Chris S/Documents/Intro-to-Cpp/project1-a taste of cpp/src/simpio.h
+

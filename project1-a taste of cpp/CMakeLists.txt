@@ -1,0 +1,136 @@
+cmake_minimum_required(VERSION 3.13)
+project(project1_a_taste_of_cpp)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(lib/StanfordCPPLib/collections)
+include_directories(lib/StanfordCPPLib/graphics)
+include_directories(lib/StanfordCPPLib/io)
+include_directories(lib/StanfordCPPLib/private)
+include_directories(lib/StanfordCPPLib/system)
+include_directories(lib/StanfordCPPLib/util)
+
+add_executable(project1_a_taste_of_cpp
+        lib/StanfordCPPLib/collections/basicgraph.h
+        lib/StanfordCPPLib/collections/collections.h
+        lib/StanfordCPPLib/collections/dawglexicon.h
+        lib/StanfordCPPLib/collections/deque.h
+        lib/StanfordCPPLib/collections/functional.h
+        lib/StanfordCPPLib/collections/graph.h
+        lib/StanfordCPPLib/collections/grid.h
+        lib/StanfordCPPLib/collections/gridlocation.h
+        lib/StanfordCPPLib/collections/hashcode.h
+        lib/StanfordCPPLib/collections/hashmap.h
+        lib/StanfordCPPLib/collections/hashset.h
+        lib/StanfordCPPLib/collections/lexicon.h
+        lib/StanfordCPPLib/collections/linkedhashmap.h
+        lib/StanfordCPPLib/collections/linkedhashset.h
+        lib/StanfordCPPLib/collections/linkedlist.h
+        lib/StanfordCPPLib/collections/map.h
+        lib/StanfordCPPLib/collections/pqueue.h
+        lib/StanfordCPPLib/collections/priorityqueue.h
+        lib/StanfordCPPLib/collections/queue.h
+        lib/StanfordCPPLib/collections/set.h
+        lib/StanfordCPPLib/collections/shuffle.h
+        lib/StanfordCPPLib/collections/sparsegrid.h
+        lib/StanfordCPPLib/collections/stack.h
+        lib/StanfordCPPLib/collections/stl.h
+        lib/StanfordCPPLib/collections/vector.h
+        lib/StanfordCPPLib/graphics/console.h
+        lib/StanfordCPPLib/graphics/consoletext.h
+        lib/StanfordCPPLib/graphics/gbrowserpane.h
+        lib/StanfordCPPLib/graphics/gbufferedimage.h
+        lib/StanfordCPPLib/graphics/gbutton.h
+        lib/StanfordCPPLib/graphics/gcanvas.h
+        lib/StanfordCPPLib/graphics/gcheckbox.h
+        lib/StanfordCPPLib/graphics/gchooser.h
+        lib/StanfordCPPLib/graphics/gclipboard.h
+        lib/StanfordCPPLib/graphics/gcolor.h
+        lib/StanfordCPPLib/graphics/gcolorchooser.h
+        lib/StanfordCPPLib/graphics/gconsolewindow.h
+        lib/StanfordCPPLib/graphics/gcontainer.h
+        lib/StanfordCPPLib/graphics/gdiffgui.h
+        lib/StanfordCPPLib/graphics/gdiffimage.h
+        lib/StanfordCPPLib/graphics/gdownloader.h
+        lib/StanfordCPPLib/graphics/gdrawingsurface.h
+        lib/StanfordCPPLib/graphics/gevent.h
+        lib/StanfordCPPLib/graphics/geventqueue.h
+        lib/StanfordCPPLib/graphics/gevents.h
+        lib/StanfordCPPLib/graphics/gfilechooser.h
+        lib/StanfordCPPLib/graphics/gfont.h
+        lib/StanfordCPPLib/graphics/gfontchooser.h
+        lib/StanfordCPPLib/graphics/gformattedpane.h
+        lib/StanfordCPPLib/graphics/ginputpanel.h
+        lib/StanfordCPPLib/graphics/ginteractor.h
+        lib/StanfordCPPLib/graphics/ginteractors.h
+        lib/StanfordCPPLib/graphics/glabel.h
+        lib/StanfordCPPLib/graphics/glayout.h
+        lib/StanfordCPPLib/graphics/gobjects.h
+        lib/StanfordCPPLib/graphics/gobservable.h
+        lib/StanfordCPPLib/graphics/goptionpane.h
+        lib/StanfordCPPLib/graphics/gradiobutton.h
+        lib/StanfordCPPLib/graphics/gscrollbar.h
+        lib/StanfordCPPLib/graphics/gscrollpane.h
+        lib/StanfordCPPLib/graphics/gslider.h
+        lib/StanfordCPPLib/graphics/gspacer.h
+        lib/StanfordCPPLib/graphics/gtable.h
+        lib/StanfordCPPLib/graphics/gtextarea.h
+        lib/StanfordCPPLib/graphics/gtextfield.h
+        lib/StanfordCPPLib/graphics/gthread.h
+        lib/StanfordCPPLib/graphics/gtimer.h
+        lib/StanfordCPPLib/graphics/gtypes.h
+        lib/StanfordCPPLib/graphics/gwindow.h
+        lib/StanfordCPPLib/graphics/qtgui.h
+        lib/StanfordCPPLib/io/base64.h
+        lib/StanfordCPPLib/io/bitstream.h
+        lib/StanfordCPPLib/io/filelib.h
+        lib/StanfordCPPLib/io/plainconsole.h
+        lib/StanfordCPPLib/io/rapidxml.h
+        lib/StanfordCPPLib/io/server.h
+        lib/StanfordCPPLib/io/simpio.h
+        lib/StanfordCPPLib/io/tokenscanner.h
+        lib/StanfordCPPLib/io/urlstream.h
+        lib/StanfordCPPLib/io/xmlutils.h
+        lib/StanfordCPPLib/private/consolestreambuf.h
+        lib/StanfordCPPLib/private/echoinputstreambuf.h
+        lib/StanfordCPPLib/private/foreachpatch.h
+        lib/StanfordCPPLib/private/forwardingstreambuf.h
+        lib/StanfordCPPLib/private/headless.h
+        lib/StanfordCPPLib/private/init.h
+        lib/StanfordCPPLib/private/initstudent.h
+        lib/StanfordCPPLib/private/limitoutputstreambuf.h
+        lib/StanfordCPPLib/private/multimain.h
+        lib/StanfordCPPLib/private/precompiled.h
+        lib/StanfordCPPLib/private/randompatch.h
+        lib/StanfordCPPLib/private/static.h
+        lib/StanfordCPPLib/private/version.h
+        lib/StanfordCPPLib/system/call_stack.h
+        lib/StanfordCPPLib/system/error.h
+        lib/StanfordCPPLib/system/exceptions.h
+        lib/StanfordCPPLib/system/os.h
+        lib/StanfordCPPLib/util/bigfloat.h
+        lib/StanfordCPPLib/util/biginteger.h
+        lib/StanfordCPPLib/util/complex.h
+        lib/StanfordCPPLib/util/diff.h
+        lib/StanfordCPPLib/util/direction.h
+        lib/StanfordCPPLib/util/foreach.h
+        lib/StanfordCPPLib/util/gmath.h
+        lib/StanfordCPPLib/util/intrange.h
+        lib/StanfordCPPLib/util/managed.h
+        lib/StanfordCPPLib/util/memory.h
+        lib/StanfordCPPLib/util/note.h
+        lib/StanfordCPPLib/util/observable.h
+        lib/StanfordCPPLib/util/point.h
+        lib/StanfordCPPLib/util/random.h
+        lib/StanfordCPPLib/util/recursion.h
+        lib/StanfordCPPLib/util/regexpr.h
+        lib/StanfordCPPLib/util/require.h
+        lib/StanfordCPPLib/util/sound.h
+        lib/StanfordCPPLib/util/stringutils.h
+        lib/StanfordCPPLib/util/strlib.h
+        lib/StanfordCPPLib/util/timer.h
+        lib/StanfordCPPLib/spl.cpp
+        lib/readme.txt
+        res/Empty
+        src/name_hash.cpp
+        "Welcome to CS106B.pro")
