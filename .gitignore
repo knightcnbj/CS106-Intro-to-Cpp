@@ -38,3 +38,10 @@
 .idea/
 .cmake-build-debug/
 .DS_Store
+StanfordCPPLib/
+.DS_Store
+assign-*-*/res
+assign-*-*/lib
+assign-2-adts/*/res
+assign-2-adts/*/lib
+*.pro
